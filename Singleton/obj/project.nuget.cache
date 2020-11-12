@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gh2jX7+1KC5kIrtpUQZZZaGVyWpSb0vrTM4h2guNuXzsQuab3MwzHFck0sXlGI8ebWX+JiqCyJIvfBzuPObVA==",
+  "success": true,
+  "projectFilePath": "D:\\github\\ajay-verma-01\\design-patterns\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajay\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

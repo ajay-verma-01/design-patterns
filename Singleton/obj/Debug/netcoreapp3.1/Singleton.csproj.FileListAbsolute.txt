@@ -1,0 +1,15 @@
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\github\ajay-verma-01\design-patterns\Singleton\bin\Debug\netcoreapp3.1\MoreLinq.dll
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CopyComplete
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\github\ajay-verma-01\design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
